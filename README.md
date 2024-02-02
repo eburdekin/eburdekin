@@ -1,12 +1,6 @@
 # Welcome ✨
 I am a full-stack developer and digital advertising expert with 8+ years of experience in agency, consultancy, and in-house capacities.
 
-### Education
-
-<b>Georgetown University</b>, BA Linguistics
-<br>
-<b>Flatiron School</b>, Certificate Feb 2024
-
 ### Current Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eburdekin&theme=nightowl&border_radius=10&date_format=n%2Fj%5B%2FY%5D&card_width=350&hide_longest_streak=true)](https://git.io/streak-stats)
