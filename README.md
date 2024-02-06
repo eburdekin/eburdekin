@@ -3,7 +3,7 @@ I am a full-stack developer and digital advertising expert with 8+ years of expe
 
 ### Current Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eburdekin&theme=nightowl&border_radius=10&date_format=n%2Fj%5B%2FY%5D&card_width=350&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eburdekin&theme=nightowl&border_radius=10&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ### Languages and Tools
 
