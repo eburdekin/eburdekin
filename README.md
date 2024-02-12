@@ -1,10 +1,6 @@
 # Welcome ✨
 I am a full-stack developer and digital advertising expert with 8+ years of experience in agency, consultancy, and in-house capacities.
 
-### Current Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eburdekin&theme=nightowl&border_radius=10&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
