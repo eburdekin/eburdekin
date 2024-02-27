@@ -1,4 +1,4 @@
-# Welcome ✨
+# Hi, I'm Eileen ✨
 I am a full-stack developer and digital advertising expert with 8+ years of experience in agency, consultancy, and in-house capacities.
 
 ### Languages and Tools
