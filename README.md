@@ -1,4 +1,4 @@
-I am currently volunteering with [Expunge Assist](https://github.com/hackforla/expunge-assist) as part of [Hack for LA](https://github.com/hackforla).
+I am currently volunteering with [Hack for LA](https://github.com/hackforla).
 
 ### Languages and Tools
 
